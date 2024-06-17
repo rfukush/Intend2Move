@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+show_downloads: true
+
+lang: ja
+
+title: はじめてのJekyll + GitHub Pages
+description: JekyllとGitHub Pagesを使って静的ウェブサイトを作る
+
+collections:
+  chapters:
+    output: true
+
+exclude:
+  - README.md
